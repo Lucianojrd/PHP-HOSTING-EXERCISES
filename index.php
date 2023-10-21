@@ -17,8 +17,7 @@ conectar();
 <body>
     <h1>Tu guía de ejercicios</h1>
     <div class="orden">
-        <
-        div class="listado">
+        <div class="listado">
                 <?php
                 $sql = "SELECT * FROM menu";
                 $sql= mysqli_query($con, $sql); 
@@ -39,6 +38,9 @@ conectar();
                 <li><a href="index.php?pagina=4">Ejercicio 4</a></li>
                 <li><a href="index.php?pagina=5">Ejercicio 5</a></li>
                 <li><a href="index.php?pagina=6">Ejercicio 6</a></li>
+                <li><a href="index.php?pagina=7">Ejercicio 7</a></li>
+                <li><a href="index.php?pagina=8">Ejercicio 8</a></li>
+                <li><a href="index.php?pagina=9">Ejercicio 9</a></li>
              
         </div>
         <div class="desarrollo">
