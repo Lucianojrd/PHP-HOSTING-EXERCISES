@@ -1,0 +1,11 @@
+
+Nombre: fafafaa
+Dirección: fefeefefe
+Pizza: jamon y queso
+Cantidad: 1
+-----------------------------
+Nombre: etegee
+Dirección: tyhththtt
+Pizza: jamon y queso
+Cantidad: 1
+-----------------------------

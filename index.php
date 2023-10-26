@@ -41,6 +41,12 @@ conectar();
                 <li><a href="index.php?pagina=7">Ejercicio 7</a></li>
                 <li><a href="index.php?pagina=8">Ejercicio 8</a></li>
                 <li><a href="index.php?pagina=9">Ejercicio 9</a></li>
+                <li><a href="index.php?pagina=10">Ejercicio 10</a></li>
+                <li><a href="index.php?pagina=11">Ejercicio 11</a></li>
+                <li><a href="index.php?pagina=12">Ejercicio 12</a></li>
+                <li><a href="index.php?pagina=13">Ejercicio 13</a></li>
+                <li><a href="index.php?pagina=14">Ejercicio 14</a></li>
+                <li><a href="index.php?pagina=15">Ejercicio 15</a></li>
              
         </div>
         <div class="desarrollo">
